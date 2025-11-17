@@ -1,5 +1,1 @@
-1. Heat up pan with neutral oil
-2. Cut tortillas into small pieces
-3. Fry the tortilla chips until golden
-4. Salt lightly
-5. Serve with salsa
+hello world!
